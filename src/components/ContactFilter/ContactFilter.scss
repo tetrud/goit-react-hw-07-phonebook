@@ -1,0 +1,18 @@
+@import 'styles/shared.scss';
+
+.Filter__label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+  font-size: 20px;
+  color: rgb(181, 125, 255);
+}
+
+.Filter__input {
+  display: flex;
+  margin-left: 10px;
+  padding: 8px;
+  border: 1px solid rgba(54, 0, 124, 0.8);
+  outline: none;
+}
